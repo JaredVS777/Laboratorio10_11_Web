@@ -44,4 +44,4 @@ https://laboratorio-11-12.onrender.com/
 ![imagen](https://github.com/Miguel-Paredes/Paredes-Miguel-Laboratorio-11-12/assets/117743367/a0701f81-7698-4b7e-ab0d-2ac3bbb6f78e)
 <br>
 ![imagen](https://github.com/Miguel-Paredes/Paredes-Miguel-Laboratorio-11-12/assets/117743367/a439e9e9-d68b-443d-a810-462287dca347)
-# Laboratorio10_11_Web
+
